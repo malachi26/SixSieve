@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixSieve", "SixSieve\SixSieve.csproj", "{5A9CB0B5-8AA9-447E-A79F-E5B2B58D8A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesList", "PrimesList\PrimesList.csproj", "{AFF27BBC-BA11-4452-AA23-922F0270BA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A9CB0B5-8AA9-447E-A79F-E5B2B58D8A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9CB0B5-8AA9-447E-A79F-E5B2B58D8A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9CB0B5-8AA9-447E-A79F-E5B2B58D8A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9CB0B5-8AA9-447E-A79F-E5B2B58D8A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF27BBC-BA11-4452-AA23-922F0270BA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF27BBC-BA11-4452-AA23-922F0270BA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF27BBC-BA11-4452-AA23-922F0270BA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF27BBC-BA11-4452-AA23-922F0270BA49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
